@@ -1,0 +1,22 @@
+.jumbotron-bg {
+    background-size: cover 300px;
+    background-image: url(../img/bg.jpg);
+}
+
+.warna-bg {
+    background: linear-gradient(to right, rgba(91, 134, 229, .92), rgba(54, 209, 220, .92));
+    min-height: 350px;
+}
+
+footer {
+    background: linear-gradient(to right, rgba(91, 134, 229, .92), rgba(54, 209, 220, .92));
+}
+
+
+hr {
+    border-top: solid 2px white;
+}
+
+.navbarA {
+    min-height: 350px;
+}
